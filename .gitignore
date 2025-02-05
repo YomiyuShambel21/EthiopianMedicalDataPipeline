@@ -1,6 +1,6 @@
 .env/
 data/
-Copy
+
 # Python bytecode
 __pycache__/
 *.py[cod]
