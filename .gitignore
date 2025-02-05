@@ -1,2 +1,12 @@
 .env/
 data/
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Other files to ignore
+*.log
+*.env
